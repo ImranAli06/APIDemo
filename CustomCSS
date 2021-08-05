@@ -1,0 +1,5 @@
+<script type="type/css">
+.check {
+  display:none !important;
+}
+</script>
