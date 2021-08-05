@@ -2,4 +2,10 @@
 .check {
   display:none !important;
 }
+.register-button{
+    background-color:'#00FFFF' !important;
+}
+.event-date{
+    display:none !important;
+}
 </script>
